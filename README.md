@@ -1,4 +1,6 @@
-[![ProfileBanner](https://github.com/cmulay/about/blob/master/designs/banner/profile_banner.png)](https://www.linkedin.com/in/cmulay17/)
+# Hello World
+
+## My name is ***Yuvraj Todankar***
 
 I'm an aspiring computer engineer, contributing to improve the world around me.
 
@@ -8,13 +10,7 @@ I'm an aspiring computer engineer, contributing to improve the world around me.
 
 - 💬 Ask me about: anything I will try to help you as much as I can.
 
-- ⚡ Hackathons: [here](https://github.com/cmulay/about/blob/master/hack_list/hacklist.md)
-
-- 🤯 Feature: Visit my profile in both [light and dark mode](https://github.com/settings/appearance) !
-
-- 😄 If you want to create a similar profile readme [click here](https://github.com/cmulay/about/generate). [Consider ⭐ing!]
-
-![](https://komarev.com/ghpvc/?username=cmulay&style=for-the-badge&label=Project+Visits)
+- 🤯 Feature: Visit my profile in both [light and dark mode](https://github.com/settings/appearance
 
 ---
 
