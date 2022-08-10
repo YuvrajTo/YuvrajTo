@@ -80,7 +80,7 @@ I'm an aspiring computer engineer, contributing to improve the world around me.
 ---
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/YuvrajTo/count.svg" />
 </p>
 
 <p align="center">
